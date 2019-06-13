@@ -6,5 +6,4 @@
 .
 .
 .
-# if you have any kind of problem then please mail me and give me your valuable suggestion 
-www.vishalaharma007@gmail.com
+
